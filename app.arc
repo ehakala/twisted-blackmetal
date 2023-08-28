@@ -3,7 +3,7 @@ grunge-stack-template
 
 @aws
 region eu-west-1
-# profile default
+profile personal-sandbox
 
 @http
 /*
